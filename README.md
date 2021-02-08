@@ -1,13 +1,12 @@
 ### Hi there 👋
+My name is Rajeev Kumar and I am a front-end developer based in Sydney, Australia. My background is in Telecommunications and I have recently moved to front end developemnet.
 
-- 🔭 I’m currently working on JavaScript Tasl Planner.
-- 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate on JavaScript projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on JavaScript Task Planner and some other projects for my portfolio.
+- 🌱 I’m currently learning JavaScript and react.js
+- 👯 I’m looking to collaborate on projects with HTML/CSS/JavaScript.
+- 📫 I'm available for fulltime local or remote work and can be contacted through my email :  rjkr.au@gmail.com
+
+- 
 -->
 <!--
 **rjkr007/rjkr007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
