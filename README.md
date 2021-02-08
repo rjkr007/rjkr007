@@ -6,8 +6,7 @@ My name is Rajeev Kumar and I am a front-end developer based in Sydney, Australi
 - 👯 I’m looking to collaborate on projects with HTML/CSS/JavaScript.
 - 📫 I'm available for fulltime local or remote work and can be contacted through my email :  rjkr.au@gmail.com
 
-- 
--->
+
 <!--
 **rjkr007/rjkr007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
