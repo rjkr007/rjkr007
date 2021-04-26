@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is Rajeev Kumar and I am a front-end developer based in Sydney, Australia. My background is in Telecommunications and I have recently moved to front end developemnet.
 
-- 🔭 I’m currently working on JavaScript and React projects for my portfolio.
-- 🌱 I’m currently learning React.js and working on Code for Austrlia climate change project seechange.
-- 👯 I’m looking to collaborate on projects with HTML/CSS/JavaScript and React.
+- 🔭 I’m currently working on JavaScript and React projects to upgrade my coding skills.
+- 🌱 I’m using React.js to work on Code for Austrlia's climate change project seechange https://github.com/CodeforAustralia/seechange .
+- - - 👯 I’m looking to collaborate on projects with HTML/CSS/JavaScript and React.
 - 📫 I'm available for fulltime local or remote work and can be contacted through my email :  rjkr.au@gmail.com
 
 
